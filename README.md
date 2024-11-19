@@ -100,6 +100,11 @@
       <a href="https://github.com/babylonchain/networks/pull/297">BABYLON</a>
       <th>Accepted pull request.</th>
   </td>
+</tr>
+      <td align="center">
+      <a href="https://docs.goldentor.icu/goldentor/guides/impossible-cloud-network-node">Impossible Cloud Network</a>
+      <th>Installation Node</th>
+  </td>
   </tr>
 
 </table>
